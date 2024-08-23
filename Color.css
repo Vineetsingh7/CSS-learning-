@@ -1,0 +1,20 @@
+
+/*this color is not good for heading*/
+h1 {
+    color: brown;
+}
+#hiii{
+    color: seagreen;
+}
+.second{
+    color: rgb(5, 160, 244);
+}
+h1,h2,h3,h4 {
+    color: sandybrown;
+}
+div p {
+    color: aquamarine;
+}
+p{
+    color: crimson;
+}
